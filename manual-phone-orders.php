@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Manual Phone Orders
- * Plugin URI:  https://github.com/manual-phone-orders
+ * Plugin URI:  https://github.com/iffe-thrive/maual-phone-order
  * Description: Fast, AJAX phone/manual order entry for WooCommerce. Isolated per-customer carts, no page reloads, compatible with pricing and funds plugins.
  * Version:     1.0.18
  * Author:      Manual Phone Orders
